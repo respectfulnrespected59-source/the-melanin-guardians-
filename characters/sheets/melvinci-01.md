@@ -8,6 +8,7 @@ first_appearance: v1-e01-s01
 name_reveal: v1-e01-s04
 status: canon
 hometown: East Oakland, California
+facility_at_scene_01: Old Folsom State Prison, Level 3, Administrative Segregation
 ---
 
 # Melvinci — Character Sheet
@@ -29,8 +30,9 @@ Quick production reference. For full lore, cultural notes, and the case backgrou
 - Born: East Oakland, CA
 - Age at Scene 01: late 20s
 - Trade: welder + maintenance (certified arc, MIG, stick)
-- Status at Scene 01: incarcerated, California state prison, ~5-7 years into a 14-year sentence under CA 85% law
+- Status at Scene 01: incarcerated, **Old Folsom State Prison Lev 3, in administrative segregation (the hole)**, ~5-7 years into a 14-year sentence under CA 85% law
 - Conviction: homicide (actually self-defense; discredited Black female eyewitness)
+- Reason in the hole: organized yard response after East Oakland youngster was jumped; enforced fair-fights principle. Backstory canon, not depicted in Ep 2. See `lore/concepts/oakland-code.md`.
 - Grandfather: Osanyin (deceased when Mello was 13; raised him)
 - Father: alive, devout Christian, suppressed flame, past Mello doesn't know
 - Mother: alive, non-practitioner, warm
@@ -54,6 +56,7 @@ Quick production reference. For full lore, cultural notes, and the case backgrou
 - Pitch: Low baritone, unhurried
 - Delivery: Flat and true, economical — inside-taught
 - Signature line: *"I will never forget."*
+- Ritual close (Ep 2 onward, with Osanyin): *"And so it is. ÀṢẸ."*
 - Casting: Chadwick Boseman gravity / Mahershala Ali cadence / Lakeith Stanfield stillness / Yasiin Bey reading dignity — composite, specifically of a man who has spent years inside
 
 ---
@@ -63,6 +66,7 @@ Quick production reference. For full lore, cultural notes, and the case backgrou
 - Melanin activation (subdermal light)
 - Lineage memory access (the Corridor)
 - Light-ripple recognition (credential, not weapon)
+- **Breathwork (from Ep 2 — Osanyin's first teaching)** — breath stacking, Wim Hof method, meditation as portal. Foundation of full melanin activation. Allows on-demand Corridor access and amplification of subdermal glow toward full chi/kundalini activation.
 - Vol. 1 has no combat powers — the awakening is the arc
 
 ---
@@ -73,11 +77,17 @@ Read **The Magnum Opus of Melanin** by Robert Hadden Jr. and Mahal Kita in his c
 
 ---
 
+## The Cell-Phone Network (canon)
+
+Old Folsom yard runs an underground cell phone economy. Used for outside contact, cross-yard coordination, and feeding families. Mello operates inside it. Soft operators lose their business — respect is material. Used to organize the yard response that put Mello in the hole.
+
+---
+
 ## Arc (Vol. 1)
 
 - Ep 1: Cold open awakening (Corridor, name reveal, vow)
-- Ep 2: Wakes in cell. First Corridor dialogue with Osanyin.
-- Ep 3: Antagonist arc begins. Witness re-enters. Mello starts building.
+- Ep 2: Wakes in the hole. First Corridor dialogue with Osanyin. Receives breathwork teaching and ÀṢẸ ritual.
+- Ep 3: Antagonist arc begins. Witness re-enters. Mello starts building. Yard riot may be depicted as flashback.
 - Ep 4-6: TBD. Volume ends still incarcerated but transformed.
 
 ---
@@ -86,14 +96,16 @@ Read **The Magnum Opus of Melanin** by Robert Hadden Jr. and Mahal Kita in his c
 
 - Scene 01 — base look, subdermal glow baseline
 - Scene 04 — face-lock, eye-reflection motif
+- Scene 05 — title card eye-as-portal grammar
+- Scene 06 (drafting) — eyes opening with book glow reflected in pupils
 
 ---
 
 ## Open Questions
 
-- Exact facility
 - Length served at Scene 01 (implied ~5-7 years)
 - Witness's name (Ep 3 reveal)
 - Mother's name
 - Father's name
-- Cellmate
+- Specific cell number / block in Old Folsom Lev 3 ASU
+- Exact length of current stretch in the hole at Scene 06
