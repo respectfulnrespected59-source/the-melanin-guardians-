@@ -395,3 +395,42 @@ When starting a session on the Origins thread, default priority order:
 - **Characters locked:** Mello/Melvinci, Osanyin (both bibles + sheets)
 - **Lore artifacts:** The Magnum Opus of Melanin
 - **Next planned work:** Episode 2 outline, then Scene 06 (Episode 1 waking-world opener)
+
+---
+
+## Visual Style SOP -- Graphic Novel Illustration Standard (LOCKED)
+
+*Added: April 25, 2026. This section is permanent and non-negotiable across all generated assets.*
+
+### Style Reference
+The locked visual identity for The Melanin Guardians is defined by the approved style reference image (on file with Rob/Mahal): a high-energy graphic novel illustration depicting a melanated hero with locs in Afrofuturist armor channeling sacred geometry energy against a shadow entity, set against a ruined cityscape. This image defines the visual law of the universe.
+
+### Locked Style Parameters (apply to ALL scene prompts and generation runs)
+
+**Art Style:** Graphic novel illustration -- bold, thick black ink outlines on all figures and environmental elements. High contrast. Dynamic comic panel energy. No painterly softening. No photorealism. No anime-lite or western generic superhero flattening. This universe has its own visual law.
+
+**Color Palette:**
+- Base: Deep purples, blacks, and charcoals
+- Sacred/Ancestral energy: Gold and amber (AShE manifestation -- always warm, never cold)
+- Threat/Conflict: Crimson and deep red
+- Impact/Energy flash: White and electric yellow
+- Environment: Desaturated grays, rust-browns, institutional greens (Origins/prison arc)
+- Hero warmth and enemy coldness never mix on the same character
+
+**Lighting:** Dramatic chiaroscuro. Strong rim lighting on melanated skin. Energy sources cast the primary fill light -- amber from The Magnum Opus of Melanin, gold from sacred geometry. No flat lighting. Every frame should feel like it could be a graphic novel splash page.
+
+**Sacred Geometry:** Metatron's Cube, Flower of Life, and geometric fractals rendered in glowing gold. These are physical manifestations of AShE -- not decorative. They pulse, they respond to character state, they are alive.
+
+**Characters:** Melanated skin rendered with care and specificity -- rich, warm undertones catching light. Locs, coils, waves, and natural hair treated as power markers. Afrofuturist armor blends African cultural symbols (Adinkra, Yoruba motifs, Kemetic geometry) with futuristic design language.
+
+**Motion Language:** Speed lines, particle debris, energy arcs, atmospheric smoke, impact shockwaves. Everything should feel in motion even in still frames.
+
+**Environment:** Gritty, tactile real-world texture (concrete, steel, rust) juxtaposed with supernatural luminescence. The contrast between the ugliness of the cage and the beauty of the light IS the story.
+
+**Aspect Ratio:** 16:9 cinematic widescreen -- standard across all generated assets.
+
+### Style Prompt Tag (mandatory on every scene prompt)
+graphic novel illustration style, bold ink outlines, high contrast, Afrofuturist, sacred geometry gold glow, deep purple and amber palette, chiaroscuro lighting, melanated hero
+
+### What This Style Is NOT
+Not anime. Not western comic generic. Not painterly realism. Not soft fantasy. This is Afrofuturist graphic novel. Own it completely in every prompt.
